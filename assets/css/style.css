@@ -3,6 +3,11 @@ body {
   font-family: monospace;
 }
 
+img {
+  height: 50%;
+  width: 50%;
+}
+
 h1 {
   color: #02b3e4;
 }
@@ -12,7 +17,7 @@ h2 {
 }
 
 #top {
-  height: 50px;
+  height: 100px;
 }
 
 .name {
